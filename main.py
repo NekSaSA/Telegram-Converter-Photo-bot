@@ -9,7 +9,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import Message, CallbackQuery, InlineKeyboardButton, FSInputFile
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-API_TOKEN = '7299165407:AAEmfJBwwT7zIwH-cAbRvXOPHkx-3sGyeWw'
+API_TOKEN = 'your_token'
 
 logging.basicConfig(level=logging.INFO)
 
